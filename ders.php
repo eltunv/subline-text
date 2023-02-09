@@ -1,1 +1,2 @@
-echo "eltun";dd
+echo "eltun"; 
+$ad
